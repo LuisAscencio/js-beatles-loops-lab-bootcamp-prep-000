@@ -20,12 +20,12 @@ function johnLennonFacts (facts){
 }
 
 function iLoveTheBeatles (Number){
-  var arr = []
+  var array = []
   let i = 0
   do {
-    arr.push('I love the Beatles!')
+    array.push('I love the Beatles!')
     i++
   } while (i <= number && number < 15);
-  return arr
+  return array
 
 }
