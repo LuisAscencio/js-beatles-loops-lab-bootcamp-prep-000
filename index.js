@@ -23,10 +23,10 @@ function iLoveTheBeatles (Number){
   var arr = []
   var i = 0
   do {
-    array.push('I love the Beatles!')
+    arr.push('I love the Beatles!')
     i++
   } while (i <= number && number < 15);
-  return array
+  return arr
 
 
 }
